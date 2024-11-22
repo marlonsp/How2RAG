@@ -14,4 +14,4 @@ Esse é o repositório da aula **Como o uso de RAG melhora a contextualização?
 - Marlon Silva Pereira
 
 ## Videoaula
-Link da videoaula no youtube: 
+Link da videoaula no youtube: https://youtu.be/Oxq54mAJiDI
